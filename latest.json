@@ -1,9 +1,9 @@
 {
   "packageName": "ir.farseform.scheduler",
-  "versionCode": 9,
-  "versionName": "0.4.4",
+  "versionCode": 10,
+  "versionName": "0.4.5",
   "minSdk": 26,
-  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.4/fars-eform-v0.4.4.apk",
-  "sha256": "98d65db901ecd02b8d7110a4aa6714097fdf4d18b8bbdfca968686dd49114099",
+  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.5/fars-eform-v0.4.5.apk",
+  "sha256": "04c2ba747171f68aaff11da317ae3918302d28dd9c78468adc7a7b840750f219",
   "notes": "نسخه جدید فرم‌یار فارس آماده نصب است. لطفاً تغییرات را بررسی کنید."
 }
