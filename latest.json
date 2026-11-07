@@ -1,9 +1,9 @@
 {
   "packageName": "ir.farseform.scheduler",
-  "versionCode": 30,
-  "versionName": "0.4.25",
+  "versionCode": 31,
+  "versionName": "0.4.26",
   "minSdk": 26,
-  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.25/fars-eform-v0.4.25.apk",
-  "sha256": "7c5618527230d0626f3e2cfacf4bdffbb318becf121281bc22a1fba861d911cf",
+  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.26/fars-eform-v0.4.26.apk",
+  "sha256": "d7019b14020154685c64ed4054960824415d95713f0f0b61e259df8ddb82916b",
   "notes": "نسخه جدید آناهید آماده نصب است. لطفاً تغییرات را بررسی کنید."
 }
