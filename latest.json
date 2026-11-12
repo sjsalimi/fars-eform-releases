@@ -1,9 +1,9 @@
 {
   "packageName": "ir.farseform.scheduler",
-  "versionCode": 57,
-  "versionName": "0.4.52",
+  "versionCode": 58,
+  "versionName": "0.4.53",
   "minSdk": 26,
-  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.52/fars-eform-v0.4.52.apk",
-  "sha256": "876f37e69192ca9b1979fffb144d75f628a102efb74d0544d5235d545e5376c5",
+  "apkUrl": "https://github.com/sjsalimi/fars-eform-releases/releases/download/v0.4.53/fars-eform-v0.4.53.apk",
+  "sha256": "5c6961ef5cf980121a6e681636e6ae26353c20b623d6637bc49bdb3b029a3830",
   "notes": "نسخه جدید داتسان آماده نصب است. لطفاً تغییرات را بررسی کنید."
 }
